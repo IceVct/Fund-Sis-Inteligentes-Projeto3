@@ -1,0 +1,8 @@
+Kfold com gaussian e one vs all: 22.02%
+Kfold com gaussian e one vs one: 1.3131%
+Kfold com rbf e one vs all: 22.02%
+Kfold com rbf e one vs one: 1.3131%
+Kfold com polynomial e one vs all: 80% 
+Kfold com polynomial e one vs one: 44.34%
+Kfold com linear e one vs all: 99.0909 ---- Rendimento do modelo sem o kfold: 88,89% (NumtotalTeste - numDif6)/NumtotalTeste MELHOR E O MAIS RAPIDO
+Kfold com linear e one vs one: 93.9304 ---- Rendimento do modelo sem o kfold: 62,63% ///////////////////////////////////////

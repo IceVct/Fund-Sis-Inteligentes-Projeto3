@@ -1,0 +1,11 @@
+Acer_Opalus: 7
+Alnus_Sieboldiana: 5
+Alnus_Viridis: 7
+Betula_Pendula: 5
+Callicarpa_Bodinieri: 4
+Cornus_Macrophylla: 5
+Eucalyptus_Glaucescens: 7
+Prunus_X_Shmittii: 7
+Quercus_Alnifolia: 7
+Quercus_Kewensis: 5
+Quercus_x_Hispanica: 7
