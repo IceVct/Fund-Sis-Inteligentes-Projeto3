@@ -1,0 +1,13 @@
+species,frequency
+Acer_Mono,5
+Acer_Opalus,7
+Cornus_Chinensis,7
+Cornus_Macrophylla,5
+Eucalyptus_Neglecta,7
+Ilex_Cornuta,7
+Populus_Grandidentata,7
+Quercus_Imbricaria,5
+Quercus_Kewensis,5
+Quercus_Palustris,7
+Quercus_Semecarpifolia,5
+Quercus_Shumardii,5
