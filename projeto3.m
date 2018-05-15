@@ -26,7 +26,7 @@ nLabels = numel(isLabels);
 tabulate(categorical(labelsTreino));
 
 %% SVM
-firstTimeSVM = 0;
+firstTimeSVM = 1;
 if(firstTimeSVM == 1)
     [modeloSVM, respostaSVM, rendimentoKFold] = svm(valoresTreino, labelsTreino, valoresTeste);
     save('modeloSVM.mat', 'modeloSVM');

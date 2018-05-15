@@ -4,7 +4,7 @@ function [modeloSVM, respostaSVM, rendimentoKFold] = svm(valoresTreino, labelsTr
 rng(1);
 
 %% Treino do modelo
-t = templateSVM('Standardize',1, 'KernelFunction', 'linear'); % normaliza os dados
+t = templateSVM('Standardize', 1, 'KernelFunction', 'linear'); % normaliza os dados
 CPU = 1;
 if(CPU == 1)
     options = statset('UseParallel',true);
